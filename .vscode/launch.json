@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch GuiNew",
+      "request": "launch",
+      "mainClass": "GUI.GuiNew",
+      "projectName": "VisualStudioCode_bbcf611"
+    },
+    {
+      "type": "java",
+      "name": "Launch Calculator",
+      "request": "launch",
+      "mainClass": "Calculator.Calculator",
+      "projectName": "VisualStudioCode_bbcf611"
+    },
+    {
+      "type": "java",
+      "name": "Launch HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "VisualStudioCode_bbcf611"
+    },
+    {
+      "type": "java",
       "name": "Launch Quiz",
       "request": "launch",
       "mainClass": "Quiz.Quiz",
